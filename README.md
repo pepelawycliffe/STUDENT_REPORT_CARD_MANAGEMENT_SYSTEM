@@ -1,2 +1,3 @@
-# STUDENT_REPORT_CARD_MANAGEMENT_SYSTEM
-Making a student report card management system using c++
+# HOW-TO-MAKE-A-STUDENT-REPORT-CARD-MANAGEMENT-SYSTEM-USING-C--
+#hi this is the great 
+#to run this program just run the srcard file 
